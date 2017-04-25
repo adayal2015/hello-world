@@ -1,2 +1,1 @@
-# hello-world
-Testing Github
+This is the first branch created using Git Hub
